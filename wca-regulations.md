@@ -527,11 +527,9 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
 ## <article-F><clock><clocksolving> 附則 F：Clock魔錶
 
 - F1) 標準速解流程如同[附則 A](regulations:article:A)（速解）。相異且優先於[附則 A](regulations:article:A)的流程如下：
-- F2) 轉亂完成後，裁判將魔錶Clock以站立的方式置放在墊子上。
-    - F2a)主辦團隊可以強制使用讓魔錶Clock可以站立的支架，以避免在還原開始時倒下。如果將要使用這樣的支架，必須要在該輪比賽開始前公告。
-        - F2a1) 裁判必須要在參賽者把魔錶Clock從支架拿起來後立刻把支架從墊子上移除。
-- F3) 在觀察完畢後，參賽者將魔錶Clock以站立的方式置放在墊子上。處罰：判定該次還原未完成（DNF）。
-    - F3a) 參賽者在開始解魔錶之前，禁止改變任何按鈕的狀態。處罰：判定該次還原未完成（DNF）。
+- F2) 主辦團隊可以強制使用讓魔錶Clock可以站立的支架，以避免在還原開始時倒下。如果將要使用這樣的支架，必須要在該輪比賽開始前公告。
+- F3) 在觀察階段時，參賽者可以改變按鈕的狀態，這些改變的步驟不會算步數。
+- F4) 在觀察階段時，參賽者禁止改變內部錶面的狀態。處罰：判定該次還原未完成（DNF）。
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> 附則 H：多顆盲解
