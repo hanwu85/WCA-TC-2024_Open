@@ -183,6 +183,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - 4g1) 以下為例外：
         - 4g1a) 6x6x6方塊、7x7x7方塊和12面體Megaminx，修正轉亂狀態是非必要的，由WCA代表決定。
         - 4g1b) 5x5x5方塊，轉亂員應該要修正方塊轉亂狀態。如果修正方塊轉亂狀態會嚴重影響比賽行程，就沒有必要修正轉亂狀態，由WCA代表決定。
+    - 4g2) 多顆盲解項目中，在所有方塊被轉亂過，轉亂員必須要確認沒有重複的轉亂狀態。
 
 
 ## <article-5><puzzle-defects><puzzledefects> 第5章：方塊故障
