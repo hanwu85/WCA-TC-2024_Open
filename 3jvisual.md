@@ -6,7 +6,7 @@
 |Visual Guide|視覺指南|
 |WCA Regulations & Guidelines|WCA競賽規則與指導方針|
 |WCA Regulations Committee|WCA規則委員會|
-
+![ Alt Text](https://www.worldcubeassociation.org/files/WCALogo3Dsmall.png)
 # Page 2
 Regulation 3j
 
@@ -14,7 +14,7 @@ Regulation 3j
 
 “Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that significantly distinguish any piece from a similar piece (…)”
 
-「」
+「方塊必須要乾淨，且禁止有任何記號、凸出的部位、損壞、或是任何可以讓各零件更容易區分的相異處。」
 
 # Page 3
 Regulation 3j1
@@ -23,29 +23,29 @@ Regulation 3j1
 
 “Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.”
 
-「」
+「方塊上合理的使用磨損是允許的，由WCA代表決定。」
 
 # Page 4
 “Reasonable Wear”
 
-「」
+「合理的使用磨損」
 
 Wear should be considered reasonable if it is a result of normal use of the puzzle and if it does not give significant additional information about the state of the puzzle (e.g. about the location of specific pieces).
 
-
+如果是正常使用下的且沒有能得知更多方塊狀態的明顯額外資訊（例如：某個方塊零件位置），則會被視為使用上的合理磨損。
 
 # Page 5
 Considerations
 
-
+考慮事項
 
 • Different delegates across the world have different views of “reasonable wear” as mentioned in Regulation 3j1. For this reason, it may happen that the same puzzle is accepted by some delegates and rejected by others.
 
-•
+•不同區域的不同代表對於規則3j1所提的「合理的使用磨損」會有不同的看法。基於這個原因，同一個方塊可能會被某些代表接受卻以及被某些代表拒絕。
 
 •This Visual Guide contains examples of puzzles with different degrees of similar issues.
 
-•
+•這一個視覺指南含有相似問題中不同程度的方塊範例。
 
 # Page 6
 Example 1a
@@ -58,7 +58,7 @@ Legal
 
 This puzzle’s corner is slightly damaged, and it does not make a big difference for Speed Solving events, since the crack is almost invisible.
 
-
+這個方塊的角有一點損傷，但不會對速解項目有大的影響，因為裂痕幾乎看不到。
 
 # Page 7
 Example 1b
@@ -69,7 +69,7 @@ Illegal
 
 This puzzle has two big cracks that do not fall under “reasonable wear”.
 
-
+這個方塊有兩個不屬於「合理的使用磨損」的大裂痕。
 
 For example, looking at the crack in the white piece is enough to know that it is the blue-red-white corner.
 
