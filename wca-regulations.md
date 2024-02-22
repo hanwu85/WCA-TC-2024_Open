@@ -38,7 +38,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
 <table-of-contents>
 
 
-## <article-1><officials><officials> 第1章：工作人員
+## <article-1><officials><officials> 章節 1：工作人員
 
 - 1a) 一場比賽必須至少要有一位WCA代表和一個主辦團隊（由一至多個成員組成），以及工作人員包括裁判、轉亂員及成績紀錄員。
 - 1b) 主辦團隊必須負責比賽前、比賽中及比賽後的事務。
@@ -60,7 +60,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
 - 1k) 工作人員可以身兼多職（例如：主辦團隊、WCA代表、裁判、成績紀錄員、轉亂員）。
 
 
-## <article-2><competitors><competitors> 第2章：參賽者
+## <article-2><competitors><competitors> 章節 2：參賽者
 
 - 2a) 任何人都可以參加WCA比賽，只要他們符合以下內容：
     - 2a1) 遵守WCA競賽規則。
@@ -118,7 +118,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - 2u2) 例外：採用累積時間限制的輪數，遲到的參賽者可以用縮短的累積時間限制來參賽，由WCA代表決定。
 
 
-## <article-3><puzzles><puzzles> 第3章：方塊
+## <article-3><puzzles><puzzles> 章節 3：方塊
 
 - 3a) 參賽者必須自己準備方塊來參賽。
     - 3a1) 當參賽者在該輪比賽被唱名時，他必須要在場並繳交方塊。(參見[規則 2u](regulations:regulation:2u))
@@ -158,7 +158,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
 - 3m) 只要符合WCA競賽規則，所有品牌的魔術方塊和零件都是被允許的。
 
 
-## <article-4><scrambling><scrambling> 第4章：轉亂
+## <article-4><scrambling><scrambling> 章節 4：轉亂
 
 - 4a) 轉亂員依照轉亂步驟來轉亂方塊。
 - 4b) 方塊必須使用電腦隨機產生的轉亂步驟來轉亂。
@@ -187,7 +187,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - 4g2) 多顆盲解項目中，在所有方塊被轉亂過，轉亂員必須要確認沒有重複的轉亂狀態。
 
 
-## <article-5><puzzle-defects><puzzledefects> 第5章：方塊故障
+## <article-5><puzzle-defects><puzzledefects> 章節 5：方塊故障
 
 - 5a) 方塊故障例子包含：方塊零件彈出、零件原位旋轉、螺絲脫落、蓋子分開、貼紙脫落。
 - 5b) 當方塊故障發生後，參賽者可以選擇修復方塊並繼續還原，或是選擇停止還原。
@@ -207,7 +207,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
         - 5b5f) 如果一個零件部分分離或是未完全歸位，考慮方塊當下的狀態，這個零件的最終位置將被視為一般正常情況下最接近的位置。如果最終的位置能讓方塊成功還原，則這個零件不被視為方塊故障。
     - 5b6) 定義：一個零件是指一個或多個在正常操作下，保持結合且與其他零件沒有相對移動關係的零件。（例如：一個3x3x3方塊的中心蓋、一個金字塔Pyraminx的角塊、少一片角塊蓋的3x3x3方塊角塊、一片3x3x3方塊的角塊蓋）。
 
-## <article-7><environment><environment> 第7章：比賽場地
+## <article-7><environment><environment> 章節 7：比賽場地
 
 - 7b) 比賽進行時，觀眾必須要距離正在比賽的還原區域至少1.5公尺遠。
 - 7c) 比賽區域的照明必須被特別留意，應該使用中性顏色的光，這樣參賽者才能容易辨別方塊上的顏色。
@@ -226,7 +226,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - 7h2) 定義：參賽者預備區是參賽者被唱名前往還原區域前所等待的指定區域。
 
 
-## <article-9><events><events> 第9章：比賽項目
+## <article-9><events><events> 章節 9：比賽項目
 
 - 9a) WCA掌管魔術方塊比賽，這些魔術方塊是透過轉動一部份的零件來操控，通常稱之為「魔術方塊」。
 - 9b) WCA官方的項目為：
@@ -294,7 +294,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
         - 9u2b) 比賽日期的最後一天已結束。
 
 
-## <article-10><solved-state><solvedstate> 第10章：方塊完成狀態
+## <article-10><solved-state><solvedstate> 章節 10：方塊完成狀態
 
 - 10b) 只有在計時器停止，且方塊處於靜止，才能視為完成狀態。
 - 10c) 完成時的方塊，任何一面朝上皆可。
@@ -313,7 +313,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - 10h1) 魔錶Clock的還原狀態是指所有指針（18個）都朝向12點鐘。
 
 
-## <article-11><incidents><incidents> 第11章：意外事件
+## <article-11><incidents><incidents> 章節 11：意外事件
 
 - 11a) 意外事件包括：
     - 11a1) 工作人員或參賽者執行了錯誤的比賽流程。
@@ -329,7 +329,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
 - 11g) WCA代表必須確保比賽時，有能讓工作人員或參賽者用來查閱的競賽規則和指導方針（例如：印刷紙本，電子檔，或經由網路查詢）。
 - 11h) 在考慮情況嚴重性以及最佳的處理辦法後，WCA代表可以要求嚴重違反[規則 2k3](regulations:regulation:2k3)的參賽者離開比賽場館。如果參賽者拒絕離開，WCA可以對參賽者採取紀律處分。
 
-## <article-12><notation><notation> 第12章：轉動代號
+## <article-12><notation><notation> 章節 12：轉動代號
 
 - 12a) 立方體方塊的轉動代號：
     - 12a1) 最外層轉動(Face Moves)：
