@@ -84,7 +84,7 @@ A 4x4 mechanism does not allow the wing to be twisted on its spot, so that is no
 
 4x4方塊的機構不允許邊塊在原位旋轉，所以這種狀況不需要考慮。
 
-![ Alt Text](https://drive.google.com/file/d/1I8HwUlRT_UwcX_WLxfGPgaFR1mF7aBC8/view?usp=drive_link)
+![ Alt Text](https://github.com/hanwu85/WCA-TC-2024_Open/blob/64e49fd8af90220549a2120882ee76e5345e00c8/5b5/Ajax%20NxNxN%202022%20B.png)
 
 # Page 7
 Example 2 
@@ -257,6 +257,8 @@ As opposed to Example 1, the “twisted” position is valid in terms of mechani
 
 # Page 16
 Explanation
+
+解釋
 
 As you have seen, the 4x4 is considered solved, but the 3x3 is not. But why?
 
