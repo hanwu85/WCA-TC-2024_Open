@@ -84,6 +84,8 @@ A 4x4 mechanism does not allow the wing to be twisted on its spot, so that is no
 
 4x4方塊的機構不允許邊塊在原位旋轉，所以這種狀況不需要考慮。
 
+![ Alt Text](https://drive.google.com/file/d/1I8HwUlRT_UwcX_WLxfGPgaFR1mF7aBC8/view?usp=drive_link)
+
 # Page 7
 Example 2 
 
