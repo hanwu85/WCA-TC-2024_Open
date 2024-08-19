@@ -200,7 +200,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - 5b4) 在盲解比賽中(參見[附則 B4](regulations:article:B4))，必須要在眼罩罩上的情形下修復方塊。處罰：判定該次還原未完成（DNF）。
     - 5b5) 若在解方塊階段結束後，方塊的一些零件掉出或是沒有完全歸位，則依照下面規則判定：
         - 5b5a) 一個或多個無色零件受影響，則判定為還原完成。
-        - 5b5b) 只有一個單色塊受影響，則判定為還原完成
+        - 5b5b) 只有一個單色塊受影響，則判定為還原完成。
         - 5b5c) 兩個以上單色塊受影響，則判定該次還原未完成(DNF)。
         - 5b5d) 一個以上多色塊受影響，則判定該次還原未完成(DNF)。
         - 5b5e) 規則[5b5c](regulations:regulation:5b5c)與[5b5d](regulations:regulation:5b5d)比[5b5a](regulations:regulation:5b5a)與[5b5b](regulations:regulation:5b5b)還要優先判定。
